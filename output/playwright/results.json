@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-19",
+  "results": [
+    {
+      "name": "Original Maps URL retained in iframe",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "External Maps uses same search without embed parameter",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No Google iframe request before activation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Room clears",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Room resets",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "General dialog and email focus",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Empty form errors",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Invalid email and phone rejected",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Explicit budget required",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Negative budget rejected",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Valid demo, zero budget accepted",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Input stays text",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Focus trapped backwards",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Focus trapped forwards",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Escape closes, clears, restores focus",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "debarras context",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "deblaiement context",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html one H1 and French",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "index.html overflow 320",
+      "pass": true,
+      "detail": "{\"viewport\":320,\"document\":320}"
+    },
+    {
+      "name": "index.html overflow 375",
+      "pass": true,
+      "detail": "{\"viewport\":375,\"document\":375}"
+    },
+    {
+      "name": "index.html overflow 390",
+      "pass": true,
+      "detail": "{\"viewport\":390,\"document\":390}"
+    },
+    {
+      "name": "index.html overflow 520",
+      "pass": true,
+      "detail": "{\"viewport\":520,\"document\":520}"
+    },
+    {
+      "name": "index.html overflow 768",
+      "pass": true,
+      "detail": "{\"viewport\":768,\"document\":768}"
+    },
+    {
+      "name": "index.html overflow 1024",
+      "pass": true,
+      "detail": "{\"viewport\":1024,\"document\":1024}"
+    },
+    {
+      "name": "index.html overflow 1440",
+      "pass": true,
+      "detail": "{\"viewport\":1440,\"document\":1440}"
+    },
+    {
+      "name": "mentions-legales.html one H1 and French",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "mentions-legales.html overflow 320",
+      "pass": true,
+      "detail": "{\"viewport\":320,\"document\":320}"
+    },
+    {
+      "name": "mentions-legales.html overflow 375",
+      "pass": true,
+      "detail": "{\"viewport\":375,\"document\":375}"
+    },
+    {
+      "name": "mentions-legales.html overflow 390",
+      "pass": true,
+      "detail": "{\"viewport\":390,\"document\":390}"
+    },
+    {
+      "name": "mentions-legales.html overflow 520",
+      "pass": true,
+      "detail": "{\"viewport\":520,\"document\":520}"
+    },
+    {
+      "name": "mentions-legales.html overflow 768",
+      "pass": true,
+      "detail": "{\"viewport\":768,\"document\":768}"
+    },
+    {
+      "name": "mentions-legales.html overflow 1024",
+      "pass": true,
+      "detail": "{\"viewport\":1024,\"document\":1024}"
+    },
+    {
+      "name": "mentions-legales.html overflow 1440",
+      "pass": true,
+      "detail": "{\"viewport\":1440,\"document\":1440}"
+    },
+    {
+      "name": "Landscape overflow",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Reduced motion no transition",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Map activated with exact URL",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Embedded Maps body",
+      "text": ""
+    },
+    {
+      "name": "Map removed on request",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "External Maps is not embed error",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Google Maps external destination",
+      "url": "https://www.google.com/maps?q=268%20chemin%20Bois%2C%2074100%20Annemasse%2C%20France&hl=fr",
+      "title": "Google Maps",
+      "text": "\t"
+    },
+    {
+      "name": "Legal navigation",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Return to home",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "No JavaScript errors",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "errors": []
+}

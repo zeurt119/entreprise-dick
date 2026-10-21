@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-19",
+  "sizes": [
+    {
+      "file": "index.html",
+      "bytes": 12172,
+      "gzip": 3683
+    },
+    {
+      "file": "style.css",
+      "bytes": 24569,
+      "gzip": 6174
+    },
+    {
+      "file": "script.js",
+      "bytes": 8686,
+      "gzip": 2744
+    },
+    {
+      "file": "espace.svg",
+      "bytes": 2488,
+      "gzip": 1006
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 223,
+      "gzip": 194
+    },
+    {
+      "file": "mentions-legales.html",
+      "bytes": 5402,
+      "gzip": 2254
+    }
+  ],
+  "totalBytes": 53540,
+  "totalGzip": 16055,
+  "contrasts": [
+    {
+      "text": "202b25",
+      "bg": "f4f4ed",
+      "ratio": "13.26"
+    },
+    {
+      "text": "5d655e",
+      "bg": "f4f4ed",
+      "ratio": "5.45"
+    },
+    {
+      "text": "5d655e",
+      "bg": "e7eadf",
+      "ratio": "4.94"
+    },
+    {
+      "text": "ffffff",
+      "bg": "202b25",
+      "ratio": "14.65"
+    },
+    {
+      "text": "ffba8c",
+      "bg": "202b25",
+      "ratio": "8.83"
+    },
+    {
+      "text": "a12c16",
+      "bg": "f4f4ed",
+      "ratio": "6.58"
+    }
+  ],
+  "unsafeSinks": false
+}

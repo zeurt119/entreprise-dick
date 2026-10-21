@@ -1,0 +1,36 @@
+ENTREPRISE DICK — MAQUETTE PREMIUM 3D
+Refonte du 19 octobre 2026
+
+Ouvrir http://127.0.0.1:5502/index.html dans le serveur local existant, ou ouvrir index.html directement.
+Aucune installation, aucun framework, aucun service payant.
+Fichiers du site : index.html, mentions-legales.html, style.css, script.js, espace.svg, favicon.svg.
+Ne pas publier les dossiers output/ et .playwright-cli/ : sauvegardes et preuves de test uniquement.
+
+Scène CSS 3D : bouton Faire de la place / Revoir les cartons. Rotation légère au pointeur sur ordinateur.
+Mobile et appareils à faible capacité : pas de suivi du pointeur. Préférence reduced-motion respectée.
+L’illustration originale est conservée. Les deux visuels sont illustratifs, pas des photos d’intervention.
+
+Formulaire : trois contextes, validation locale, aucun envoi ni stockage. Effacement à fermeture.
+Les liens téléphoniques ouvrent l’application d’appel de l’appareil.
+Sans JavaScript, contenu, illustration, coordonnées et liens restent accessibles ; formulaire et interactions nécessitent JavaScript.
+
+Google Maps : URL exacte initiale conservée pour l’intégration, chargée uniquement sur clic.
+Lien externe vers la même recherche d’adresse, sans output=embed (réservé aux iframes).
+Masquer la carte retire l’intégration mais n’efface pas les données déjà reçues par Google.
+La recherche actuelle affiche un repère Kyriad Annemasse Genève : emplacement exact à confirmer.
+Aucune fiche Entreprise Dick vérifiée et aucune coordonnée géographique inventée.
+
+Avant publication : confirmer les coordonnées et les mentions légales, choisir le domaine et l’hébergeur,
+configurer HTTPS et headers, retirer noindex après validation, compléter canonical et aperçus sociaux.
+Le formulaire nécessite un projet séparé pour un envoi réel.
+Aucune publication effectuée.
+
+Rapport de synthèse : output/verification.md
+Audit 78 critères : output/AUDIT_FINAL.md
+Direction artistique et skills : output/design-and-audit.md
+Tests et captures : output/playwright/
+Mesures : output/measurements.json
+Sauvegarde de la maquette initiale : output/before/
+
+Tests finaux : 41 assertions Chromium réussies, deux pages contrôlées de 320 à 1440 px.
+Limites explicites dans le rapport : pas de Safari/Firefox, lecteur d’écran, zoom réel ou mesures terrain.

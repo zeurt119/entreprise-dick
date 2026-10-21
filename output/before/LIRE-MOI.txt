@@ -1,0 +1,16 @@
+ENTREPRISE DICK — DÉMONSTRATION
+
+Ouvrir index.html dans un navigateur. Garder style.css et espace.svg à ses côtés.
+Page responsive autonome, sans installation. La carte Google Maps intégrée nécessite Internet et se connecte à Google.
+Les boutons d’appel utilisent le téléphone de l’appareil.
+Illustration originale et illustrative, sans représentation d’une intervention réelle.
+
+Avant publication : faire valider les coordonnées, les textes et les mentions légales par l’entreprise. Cette démonstration n’est pas publiée.
+
+Formulaire : démonstration locale uniquement, sans envoi ni stockage. Les champs sont effacés à la fermeture. Test uniquement : aucun destinataire ni service d’envoi. Les trois entrées ouvrent le formulaire général, débarras ou déblaiement. Conserver aussi script.js avec les autres fichiers.
+
+Mentions légales : page séparée mentions-legales.html, liée au pied de page, factuelle et explicitement à compléter avant publication.
+
+Carte intégrée : recherche de l’adresse fournie, sans fiche officielle vérifiée, clé API ni coordonnées géographiques ajoutées. Les formulaires restent locaux, sans envoi ni stockage.
+
+Vérification Google Maps : la recherche affiche un repère voisin Kyriad Annemasse Genève. Emplacement exact à confirmer ; aucune fiche Entreprise Dick vérifiée.

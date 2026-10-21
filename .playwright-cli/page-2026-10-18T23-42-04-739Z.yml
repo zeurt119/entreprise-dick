@@ -1,0 +1,140 @@
+- generic [active] [ref=e1]:
+  - link "Aller au contenu" [ref=e2] [cursor=pointer]:
+    - /url: "#contenu"
+  - banner [ref=e3]:
+    - link "Entreprise Dick, accueil" [ref=e4] [cursor=pointer]:
+      - /url: "#accueil"
+      - generic [ref=e5]: ENTREPRISE
+      - text: DICK.
+    - navigation "Navigation principale" [ref=e6]:
+      - link "Notre activité" [ref=e7] [cursor=pointer]:
+        - /url: "#activite"
+      - link "Contact" [ref=e8] [cursor=pointer]:
+        - /url: "#contact"
+    - link "06 38 51 47 80" [ref=e9] [cursor=pointer]:
+      - /url: tel:+33638514780
+      - generic [aria-hidden] [ref=e10]: ↗
+      - text: 06 38 51 47 80
+  - main [ref=e11]:
+    - region [ref=e12]:
+      - generic [ref=e13]:
+        - paragraph [ref=e14]: Annemasse, Haute-Savoie
+        - paragraph [ref=e16]: Déblaiements & débarras
+        - heading "De la place. De nouvelles possibilités." [level=1] [ref=e17]: De la place.De nouvellespossibilités.
+        - paragraph [ref=e18]: Un autre regard sur l’espace.Entreprise Dick, à Annemasse.
+        - button "Parlons de votre projet" [ref=e19] [cursor=pointer]:
+          - text: Parlons de votre projet
+          - generic [aria-hidden] [ref=e20]: ↗
+        - paragraph [ref=e21]:
+          - text: "Un contact direct :"
+          - link "06 38 51 47 80" [ref=e22] [cursor=pointer]:
+            - /url: tel:+33638514780
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: Faire place à la suite.
+          - generic [ref=e26]: L’espace, réimaginé
+        - img "Illustration en trois dimensions d’une pièce lumineuse et de cartons à enlever." [ref=e27]:
+          - generic [ref=e30]:
+            - generic [ref=e31]: D.
+            - generic [ref=e38]:
+              - generic [ref=e39]: DICK.
+              - generic [ref=e40]: Faire placeà la suite.
+            - generic [ref=e43]: ↑ ↑
+            - generic [ref=e47]: ↑ ↑
+            - generic [ref=e51]: ↑ ↑
+            - generic [ref=e55]: ↑ ↑
+            - generic [ref=e59]: ↑ ↑
+          - generic [ref=e69]: Un espace à libérer.
+        - generic [ref=e72]:
+          - paragraph [ref=e73]:
+            - text: Et si on changeait de perspective ?
+            - generic [ref=e74]: Illustration interactive, sans intervention réelle.
+          - button "Faire de la place" [ref=e75] [cursor=pointer]:
+            - text: Faire de la place
+            - generic [aria-hidden] [ref=e76]: ↗
+      - generic [ref=e77]:
+        - link "Découvrir notre activité" [ref=e78] [cursor=pointer]:
+          - /url: "#activite"
+          - text: Découvrir notre activité
+          - generic [aria-hidden] [ref=e79]: ↓
+        - generic [ref=e80]: De l’espace pour ce qui vient.
+    - region [ref=e81]:
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: Notre activité
+        - heading "L’espace change. Vos projets aussi." [level=2] [ref=e84]: L’espace change.Vos projets aussi.
+        - paragraph [ref=e85]: Un espace à dégager ?Commençons par en parler.
+      - generic [ref=e86]:
+        - article [ref=e87]:
+          - generic [ref=e92]: Libérer.
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - heading "Débarras" [level=3] [ref=e95]
+              - button "Présenter un projet de débarras" [ref=e96] [cursor=pointer]: ↗
+            - paragraph [ref=e97]: Présentez-nous les objets et les encombrants que vous souhaitez faire débarrasser.
+            - text: Objets & encombrants
+        - article [ref=e98]:
+          - generic [ref=e102]: Ouvrir.
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - heading "Déblaiements" [level=3] [ref=e105]
+              - button "Présenter un projet de déblaiement" [ref=e106] [cursor=pointer]: ↗
+            - paragraph [ref=e107]: Décrivez l’espace à dégager et votre besoin de déblaiement.
+            - text: Espaces à dégager
+      - generic [ref=e108]:
+        - paragraph [ref=e109]: "Pour échanger : précisez le lieu, l’accès et ce qui est à enlever."
+        - link "Contacter l’entreprise" [ref=e110] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Contacter l’entreprise
+          - generic [aria-hidden] [ref=e111]: ↗
+    - region [ref=e112]:
+      - figure "Un autre regard sur l’espace. Illustration." [ref=e113]:
+        - img "Illustration graphique d’une pièce ouverte et lumineuse, avec quelques objets regroupés sur le côté." [ref=e114]
+      - generic [ref=e116]:
+        - paragraph [ref=e117]: Faire place à la suite.
+        - heading "Tout commence par un peu de place." [level=2] [ref=e118]: Tout commencepar un peude place.
+        - paragraph [ref=e119]: "Débarras ou déblaiement : parlez-nous de votre besoin, du lieu et de ses accès."
+        - link "Échangeons de vive voix" [ref=e120] [cursor=pointer]:
+          - /url: tel:+33638514780
+          - text: Échangeons de vive voix
+          - generic [aria-hidden] [ref=e121]: ↗
+    - region [ref=e122]:
+      - generic [ref=e123]:
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - paragraph [ref=e126]: Prenons contact
+            - heading "Et si on faisait de la place ?" [level=2] [ref=e127]: Et si on faisaitde la place ?
+          - generic [ref=e128]:
+            - paragraph [ref=e129]: Parlez-nous de votre projet,directement par téléphone.
+            - text: Appeler Entreprise Dick
+            - link "06 38 51 47 80" [ref=e130] [cursor=pointer]:
+              - /url: tel:+33638514780
+              - text: 06 38 51 47 80
+              - generic [aria-hidden] [ref=e131]: ↗
+            - paragraph [ref=e132]: "Depuis l’étranger : +33 6 38 51 47 80"
+        - generic [ref=e133]:
+          - generic [ref=e134]:
+            - text: Nous situer
+            - heading "Annemasse. Tout près de vous." [level=3] [ref=e135]: Annemasse.Tout près de vous.
+            - generic [ref=e136]: 268 chemin Bois74100 Annemasse, France
+            - link "Ouvrir Google Maps" [ref=e137] [cursor=pointer]:
+              - /url: https://www.google.com/maps?q=268%20chemin%20Bois%2C%2074100%20Annemasse%2C%20France&output=embed&hl=fr
+              - text: Ouvrir Google Maps
+              - generic [aria-hidden] [ref=e138]: ↗
+          - generic [ref=e140]:
+            - generic [ref=e142]: D.
+            - generic [ref=e143]:
+              - strong [ref=e144]: Retrouvez-nous à Annemasse
+              - paragraph [ref=e145]: Afficher la carte établit une connexion avec Google.
+              - button "Afficher Google Maps" [ref=e146] [cursor=pointer]:
+                - text: Afficher Google Maps
+                - generic [aria-hidden] [ref=e147]: ↗
+  - contentinfo [ref=e148]:
+    - link "ENTREPRISE DICK ." [ref=e149] [cursor=pointer]:
+      - /url: "#accueil"
+      - text: ENTREPRISE DICK
+      - generic [ref=e150]: .
+    - generic [ref=e151]: Déblaiements & débarras · Annemasse
+    - link "Mentions légales" [ref=e152] [cursor=pointer]:
+      - /url: mentions-legales.html
+    - link "Retour en haut ↑" [ref=e153] [cursor=pointer]:
+      - /url: "#accueil"

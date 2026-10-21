@@ -1,0 +1,2 @@
+[     189ms] [LOG] Live reload enabled. @ http://127.0.0.1:5502/index.html:115
+[  107048ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://127.0.0.1:5502/favicon.ico:0
